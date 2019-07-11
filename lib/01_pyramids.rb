@@ -62,7 +62,7 @@ def wtf_pyramid
         m = m - 1 # m garde la meme valeur que n
         n = n - 1
         else 
-            puts "#{space * m + caractere * k + caractere * j}" # on utilise k et m à la place de i et n pour i <= n soit vre
+            puts "#{space * m + caractere * k + caractere * j}" # on utilise k et m à la place de i et n pour i <= n soit vraie
             m = m + 1
             j = j - 1
             k = k - 1
