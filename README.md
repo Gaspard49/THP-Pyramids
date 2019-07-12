@@ -2,10 +2,10 @@ Salut a tous !
 
 Voila nos petites applications pour :
 
-01 - Dire bonjour
-02 - Faire 4 sortes de pyramides
-03 - Faire une page incription / login / welcome
-04 - Un petit jeu de l'oie
+00 - Dire bonjour
+01 - Faire 4 sortes de pyramides
+02 - Faire une page incription / login / welcome
+03 - Un petit jeu de l'oie
 
 Amusez-vous bien !
 
