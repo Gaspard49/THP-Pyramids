@@ -26,7 +26,6 @@
         password_3 = gets.chomp
     end while
         password_3 != $password_2
-
         end
 
 

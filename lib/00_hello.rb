@@ -4,6 +4,7 @@ def ask_first_name
     print ">" 
     return first_name
 end
+
 def say_hello
     puts "Bonjour #{ask_first_name} !" 
 end
